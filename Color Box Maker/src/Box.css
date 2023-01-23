@@ -1,0 +1,13 @@
+.Box{
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+
+.Box-box{
+    display: inline-block;
+}
+
+.Box-btn{
+    display: inline-block;
+    margin-left: 10px;
+}
